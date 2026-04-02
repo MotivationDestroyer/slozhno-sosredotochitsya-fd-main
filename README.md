@@ -1,1 +1,1 @@
-https://github.com/MotivationDestroyer/slozhno-sosredotochitsya-fd-main
+https://github.com/MotivationDestroyer/slozhno-sosredotochitsya-fd

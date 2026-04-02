@@ -1,0 +1,15 @@
+:root {
+  --main-font: "IBM Plex Mono", monospace;
+  --page-bg-color: #fff1f7;
+  --page-bg-image: url("../images/cover-image-light.png");
+  --accent-color: #ff8dcb;
+  --title-color: #ffc2e6;
+  --section-title-color: #353430;
+  --main-text-color: #353430;
+  --decor-color: #353430;
+  --button-text-color: #353430;
+  --button-hover-color: rgb(50 49 45 / 0.4);
+  --main-font-size: 18px;
+  --page-padding: 10px;
+  --section-gap: 50px;
+}

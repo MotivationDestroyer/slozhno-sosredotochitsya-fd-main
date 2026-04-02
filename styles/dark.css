@@ -9,7 +9,3 @@
   --button-text-color: #ff0070;
   --button-hover-color: rgb(255 0 112 / 0.4);
 }
-
-:root.theme-dark .header__rec {
-  display: block;
-}

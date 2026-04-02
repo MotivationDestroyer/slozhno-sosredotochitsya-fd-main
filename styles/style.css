@@ -83,7 +83,7 @@
   font-size: 18px;
   line-height: 25px;
 }
-.page.theme-dark .header__rec {
+:root.theme-dark .header__rec {
   display: block;
 }
 .header__rec::after {
@@ -148,9 +148,6 @@
   color: var(--main-text-color);
   line-height: 23.4px;
 }
-.content-section__text + .content-section__text {
-  margin-top: 20px;
-}
 .content-link {
   color: var(--main-text-color);
   text-decoration: none;
@@ -212,14 +209,6 @@
   .header {
     min-height: 1024px;
     margin-bottom: 40px;
-  }
-
-  .header__theme-menu {
-    justify-self: end;
-    align-self: center;
-  }
-  .header__theme-menu-list {
-    gap: 10px;
   }
 
   .header__title {
@@ -333,10 +322,6 @@
   .header__text {
     margin-bottom: 55px;
     inline-size: 491px;
-  }
-
-  .main {
-    gap: 80px;
   }
 
   .content-section {

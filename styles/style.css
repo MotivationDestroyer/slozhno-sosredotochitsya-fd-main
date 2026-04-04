@@ -210,9 +210,11 @@
   .header__title {
     margin-inline-start: -20px;
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
-    line-height: 82.5%;
+    margin-bottom: 35px;
   }
-
+  .header__theme-menu-button{
+    line-height: 1.2;
+  }
   .header__text {
     align-self: center;
     margin-bottom: 75px;
@@ -296,7 +298,6 @@
 
   .footer__title {
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
-    line-height: 82.5%;
   }
 }
 @media (width >= 1024px) {
